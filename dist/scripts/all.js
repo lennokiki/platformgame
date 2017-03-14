@@ -1,0 +1,1 @@
+!function(){var e=document.documentElement.clientWidth;e>640&&(e=640),document.documentElement.style.fontSize=e/6.4+"px"}();
